@@ -6,7 +6,7 @@ It demonstrates key concepts of:
 * **Socket programming** (Berkeley Sockets)
 * **Symmetric and asymmetric encryption**
 * **SHA-256 hashing for credential verification**
-* **AES-256 or 3DES encryption for secure message transfer**
+* **"AES-256" or "3DES" encryption for secure message transfer**
 * **Multi-threaded server handling**
 * **Session management & streak-based user activity**
 * **Logging and input validation**
